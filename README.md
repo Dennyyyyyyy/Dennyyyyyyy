@@ -1,7 +1,8 @@
-<!---
-Hi there 👋 
+<html>
+  <body>
+<h1>Hi there 👋</h1> 
 
-My name is Denys, I was born in Zaporizhzhia, Ukraine, in 1986. I currently live in Poland. 
+<h2>My name is Denys, I was born in Zaporizhzhia, Ukraine, in 1986. I currently live in Poland. 
 
 I have been working as an Infrutructure and Cloud Engineer since 2021. My total experience in IT is about 15 years. 
 My duties include supporting the entire internal infrastructure in terms of network and cloud environment in Azure.
@@ -10,7 +11,7 @@ I hate bragging about myself but I can say that I`m responsible, hardworking and
 Also I consider myself to be a team-player. Collaboration and communication with peers are key if you want to achive goals and complete projects on time.
 Besides, I`m a people person, so I usually get on well with other teams and customers. My ambitious and proactivity could help as well, because always try to keep growing and envolving in my profession. What`s more, working hardly with different projects and tight deadline is definitly stresful, so one of my greatest qualities is that I can keep my cool.
 
-Frankly, that`s pretty much it.
+Frankly, that`s pretty much it.</h2>
 
 
 - Tech skills
@@ -53,5 +54,5 @@ Frankly, that`s pretty much it.
 •	English - Intermediate
 •	Ukrainian - Native 
 •	russian - Native
-
---->
+</body>
+</html>
