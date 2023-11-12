@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>CV version 1.0.1</head>
+<head>Rezume version 1.0.1</head>
 <body>
 <h1>Hi there 👋</h1> 
 <p>My name is Denys, I was born in Zaporizhzhia, Ukraine, in 1986. I currently live in Poland.<br>
