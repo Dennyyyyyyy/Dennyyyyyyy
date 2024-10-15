@@ -48,17 +48,19 @@ Frankly, that`s pretty much it.</p>
 </ul>
 <h3>- Certification</h3>
 <ul>
-<li>AZ-700 certificate (24.10.2023)</li>
-<li>AZ-104 certificate (30.12.2022)</li>
+<li>DevOps & Kubernetes practical intensive course (2014)</li>
+<li>AZ-700 certificate (valid untill 24.10.2025)</li>
+<li>AZ-104 certificate (valid untill 30.12.2025)</li>
 <li>Microsoft VA (2014-2018)</li>
-<li>Microsoft SQL Administrator (2014) MikroTik MTCNA (2013)</li>
+<li>Microsoft SQL Administrator (2014)</li>
+<li>MikroTik MTCNA (2013)</li>
 <li>DeviceLock DLP (2013)</li>
 </ul>
 <h3>- Languages</h3>
 <ul>
 <li>English - Intermediate</li>
 <li>Ukrainian - Native </li>
-<li>russian - Native</li>
+<li>Russian - Native</li>
 </ul>
 </body>
 </html>
