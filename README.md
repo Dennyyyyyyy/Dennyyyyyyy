@@ -2,7 +2,7 @@
 <html>
 <head>Rezume version 1.0.1</head>
 <body>
-<h1>Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </h1> 
+<h1>Hi there! <img width="66" height="59" alt="image" src="https://github.com/user-attachments/assets/22ece290-4c67-4134-843e-4a6f00436779" /></h1> 
 <p>My name is Denys, I'm originally from Zaporizhia, Ukraine. Currently live in Poland.<br>
   
 I have been working as an Infrutructure and Cloud Engineer since 2021. My total experience in IT is about 15 years. 
@@ -72,9 +72,9 @@ Frankly, that`s pretty much it.</p>
 <li>English - Upper-Intermediate</li>
 <li>Ukrainian - Native language</li>
 <li>Russian - Native language</li>
-<li>Polish - Beginner</li
+<li>Polish - Beginner</li>
 </ul>
-<b>GitHub Stats</b>
+<h3>- GitHub Stats</h3><br>
 <a href="http://www.github.com/Dennyyyyyyy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dennyyyyyyy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </body>
 </html>
