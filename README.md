@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>Rezume version 1.0.1</head>
+<head>Rezume version 1.2</head>
 <body>
 <h1>Hi there! <img width="66" height="59" alt="image" src="https://github.com/user-attachments/assets/22ece290-4c67-4134-843e-4a6f00436779" /></h1> 
 <p>My name is Denys, I'm originally from Zaporizhia, Ukraine. Currently live in Poland.<br>
@@ -8,7 +8,7 @@
 I have been working as an Infrutructure and Cloud Engineer since 2021. My total experience in IT is about 15 years. 
 My duties include supporting the entire internal infrastructure in terms of network and cloud environment in Azure.<br>
 
-I hate bragging about myself but I can say that I'm responsible, hardworking and adaptable person. I find this trait very important in my field.
+I hate bragging about myself but I can say that I'm responsible, hardworking and adaptable person. I find these traits to be very important in my field.
 Also I consider myself to be a team-player. Collaboration and communication with peers are key if you want to achive goals and complete projects on time.
 Besides, I'm a people person, so I usually get on well with other teams and customers. My ambitious and proactivity could help as well, because always try to keep growing and envolving in my profession. What`s more, working hardly with different projects and tight deadline is definitly stresful, so one of my greatest qualities is that I can keep my cool.
 
@@ -59,9 +59,10 @@ Frankly, that`s pretty much it.</p>
 </ul>
 <h3>- Certification</h3>
 <ul>
-<li>DevOps & Kubernetes practical intensive course (2014)</li>
-<li>AZ-700 certificate (valid untill 24.10.2025)</li>
-<li>AZ-104 certificate (valid untill 30.12.2025)</li>
+<li>AZ-104 certificate valid until 2026</li>
+<li>AZ-700 certificate valid until 2026</li>
+<li>AI-900 certificate issued in Nov 2024</li>
+<li>DevOps & Kubernetes practical intensive course (2024)</li>
 <li>Microsoft VA (2014-2018)</li>
 <li>Microsoft SQL Administrator (2014)</li>
 <li>MikroTik MTCNA (2013)</li>
