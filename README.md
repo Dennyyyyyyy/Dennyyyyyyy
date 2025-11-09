@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>Rezume version 1.2</head>
+<head>Rezume version 1.2.1</head>
 <body>
 <h1>Hi there! <img width="66" height="59" alt="image" src="https://github.com/user-attachments/assets/22ece290-4c67-4134-843e-4a6f00436779" /></h1> 
 <p>My name is Denys, I'm originally from Zaporizhia, Ukraine. Currently live in Poland.<br>
@@ -53,7 +53,7 @@ Frankly, that`s pretty much it.</p>
 </p>
 <h3>- Education </h3>
 <ul>
-<li>Classic Private University Ukraine (2011-2016)</li>
+<li>Classic Private University Ukraine (2011-2017)</li>
 <li>Master</li>
 <li>Completed full course having specialized in Software Engineering </li>
 </ul>
