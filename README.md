@@ -59,6 +59,7 @@ Frankly, that`s pretty much it.</p>
 </ul>
 <h3>- Certification</h3>
 <ul>
+<li>GH-200 certificate valid until 02-2028</li>
 <li>AZ-104 certificate valid until 2026</li>
 <li>AZ-700 certificate valid until 2026</li>
 <li>AI-900 certificate issued in Nov 2024</li>
