@@ -78,4 +78,4 @@ Frankly, that`s pretty much it.</p>
 </ul>
 <!-- <h3>- GitHub Stats</h3><br>
 <a href="http://www.github.com/Dennyyyyyyy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dennyyyyyyy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-</body>#</html>
+</body></html>
